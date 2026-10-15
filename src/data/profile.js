@@ -8,18 +8,18 @@
  */
 
 export const profile = {
-  name: "Tushar Wati",
+  name: "Tushar Watti",
   role: "Software Developer",
   titles: [
     "Software Developer",
     "Full-Stack Developer",
-    "AI & Machine Learning Enthusiast",
+    "AI & Machine Learning",
     "Systems & Hardware Explorer"
   ],
   location: "Maharashtra, India",
-  email: "tusharwati.dev@gmail.com", // Replace with your primary email
+  email: "watitushar@gmail.com", // Replace with your primary email
   github: "https://github.com/tusharwati", // Replace with your GitHub profile URL
-  linkedin: "https://linkedin.com/in/tusharwati", // Replace with your LinkedIn profile URL
+  linkedin: "https://www.linkedin.com/in/tushar-watti-214b352a2/", // Replace with your LinkedIn profile URL
   resumeUrl: "/resume.pdf", // Placed in public/resume.pdf
   bio: "Software engineering student and developer passionate about building reliable, performant, and real-world software solutions. Experienced in full-stack web development, computer vision, distributed systems, and low-level embedded hardware emulation.",
   about: {
