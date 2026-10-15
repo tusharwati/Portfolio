@@ -82,7 +82,7 @@ export default function Navbar() {
             onClick={(e) => handleLinkClick(e, '#home')}
             className="font-mono font-bold text-sm tracking-tight text-slate-900 dark:text-white hover:text-slate-600 dark:hover:text-slate-300 transition-colors"
           >
-            tushar.wati
+            tushar.watti
           </a>
 
           {/* Desktop Nav */}
