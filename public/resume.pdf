@@ -1,0 +1,98 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1906 >>
+stream
+BT
+/F1 22 Tf
+50 720 Td
+(Tushar Wati - Software Developer) Tj
+0 -30 Td
+/F1 12 Tf
+(Email: tusharwati.dev@gmail.com | Location: Maharashtra, India) Tj
+0 -18 Td
+(GitHub: https://github.com/tusharwati | LinkedIn: https://linkedin.com/in/tusharwati) Tj
+0 -36 Td
+/F1 16 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -20 Td
+/F1 11 Tf
+(Software engineering student and developer passionate about building reliable,) Tj
+0 -16 Td
+(performant, and real-world software solutions. Experienced in full-stack web) Tj
+0 -16 Td
+(development, computer vision, distributed systems, and low-level embedded hardware.) Tj
+0 -30 Td
+/F1 16 Tf
+(CORE TECHNICAL SKILLS) Tj
+0 -20 Td
+/F1 11 Tf
+(Languages: C++, Java, Python, JavaScript, PHP) Tj
+0 -16 Td
+(Web: HTML5, CSS3, Tailwind, React, Node.js, PHP, MySQL, MongoDB) Tj
+0 -16 Td
+(AI & ML: YOLOv7, OpenCV, PyTorch, Object Detection, Machine Learning) Tj
+0 -16 Td
+(Systems: Renode, C#, Zephyr RTOS, PCIe, Andes AE350, Git, Linux) Tj
+0 -30 Td
+/F1 16 Tf
+(EXPERIENCE) Tj
+0 -20 Td
+/F1 12 Tf
+(RBtech Services - Intern Full Stack Development (Jan 2025 - May 2025)) Tj
+0 -16 Td
+/F1 11 Tf
+(- Developed a full-featured E-Learning Platform with PHP, MySQL, JavaScript, HTML, CSS.) Tj
+0 -16 Td
+(- Implemented authentication, course management, video lectures, and quizzes.) Tj
+0 -30 Td
+/F1 16 Tf
+(KEY PROJECTS) Tj
+0 -20 Td
+/F1 12 Tf
+(1. G4B - Glasses for Blind (AI Assistive Smart Glasses)) Tj
+0 -16 Td
+/F1 11 Tf
+(   ESP32-CAM, YOLOv7, OpenCV, Python, Arduino audio feedback.) Tj
+0 -18 Td
+/F1 12 Tf
+(2. PCIe Link in Renode (Virtual Interconnect Emulation)) Tj
+0 -16 Td
+/F1 11 Tf
+(   Renode, C#, Zephyr RTOS, PCIe, Andes AE350 RISC-V.) Tj
+0 -18 Td
+/F1 12 Tf
+(3. Blockchain Land Registration System) Tj
+0 -16 Td
+/F1 11 Tf
+(   Decentralized tamper-proof property ownership and marketplace.) Tj
+0 -36 Td
+/F1 10 Tf
+([NOTE: Replace this file at public/resume.pdf with your updated official resume PDF anytime!]) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000229 00000 n 
+00000002186 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2256
+%%EOF
